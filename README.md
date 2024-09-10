@@ -18,7 +18,7 @@ Key Features:
 - Multiple Regression Models: Compared Linear Regression and Decision Tree Regression for better insights.
 - Model Performance Evaluation: Comprehensive evaluation of model performance using relevant metrics.
 - Business Insights: Extracted meaningful insights from data to support strategic decision-making.
-- 
+
 Results:
 Improved model performance after applying SMOTE to address class imbalance.
 Identified important variables influencing the target, leading to actionable business insights.
